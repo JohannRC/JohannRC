@@ -1,68 +1,69 @@
-# 🚀 Nombre del Proyecto
+# 👋 Hola, soy Johann Carretero
 
-Breve descripción del proyecto. Explica en 1-2 líneas qué hace y cuál es su propósito.
-
----
-
-## 📌 Tabla de Contenidos
-
-- [Descripción](#-descripción)
-- [Características](#-características)
-- [Tecnologías](#-tecnologías)
-- [Instalación](#-instalación)
-- [Uso](#-uso)
-- [Estructura del Proyecto](#-estructura-del-proyecto)
-- [Contribuciones](#-contribuciones)
-- [Licencia](#-licencia)
-- [Autor](#-autor)
+¡Bienvenido a mi perfil de GitHub! 🚀  
+Soy desarrollador entusiasta, siempre aprendiendo y compartiendo proyectos interesantes.
 
 ---
 
-## 📖 Descripción
+## 🧠 Sobre mí
 
-Explicación más detallada del proyecto:
-- ¿Qué problema resuelve?
-- ¿Para quién está pensado?
-- ¿Cuál es su objetivo principal?
-
----
-
-## ✨ Características
-
-- ✅ Funcionalidad 1
-- ✅ Funcionalidad 2
-- ✅ Funcionalidad 3
-- 🔒 Seguridad integrada
-- ⚡ Alto rendimiento
+✨ Me gusta crear soluciones limpias y eficientes  
+🔍 Siempre explorando nuevas tecnologías  
+📚 Me apasiona el aprendizaje continuo  
+🌍 Vivo en Perú
 
 ---
 
-## 🛠 Tecnologías
+## 🛠 Tecnologías que uso
 
-Lista de tecnologías utilizadas:
-
-- HTML / CSS / JavaScript
-- Node.js
-- React
-- Express
-- MongoDB
-- etc.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github" />
+</p>
 
 ---
 
-## 📦 Instalación
+## 📂 Mis Proyectos Destacados
 
-Sigue estos pasos para instalar el proyecto localmente:
+### 🔹 **Proyecto A**  
+💡 Descripción corta del proyecto  
+🔗 https://github.com/JohannRC/proyecto-a
 
-```bash
-# Clonar el repositorio
-git clone https://github.com/usuario/nombre-del-proyecto.git
+### 🔹 **Proyecto B**  
+💡 Descripción corta del proyecto  
+🔗 https://github.com/JohannRC/proyecto-b
 
-# Entrar en la carpeta
-cd nombre-del-proyecto
+### 🔹 **Proyecto C**  
+💡 Descripción corta del proyecto  
+🔗 https://github.com/JohannRC/proyecto-c
 
-# Instalar dependencias
-npm install
+> 🔎 Puedes ver todos mis repositorios aquí: https://github.com/JohannRC?tab=repositories
 
-# Ejecutar el proyecto
-npm start
+---
+
+## 📊 Mis Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JohannRC&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohannRC&theme=radical" />
+</p>
+
+---
+
+## 🧩 Lenguajes Más Usados
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohannRC&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 📬 Conectemos
+
+<p align="center">
+  <a href="https://linkedin.com/in/tu-perfil"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:tuemail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+---
+
+✨ **Siempre construyendo. Siempre aprendiendo.**
